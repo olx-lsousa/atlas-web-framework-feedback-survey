@@ -1,0 +1,26 @@
+Client\AnswerHttp
+ [x] Get survey by realm
+ [x] Get survey by id error
+
+Client\Answer
+ [x] Post answer
+ [x] Get all surveys error without http client
+
+Client\SurveyHttp
+ [x] Get survey by realm
+ [x] Get survey by realm error
+ [x] Get survey by id
+ [x] Get survey by id error
+
+Client\Survey
+ [x] Get all answers
+ [x] Get all surveys error without realm
+ [x] Get all surveys error without http client
+ [x] Answer byid
+ [x] Get survey by id error without realm
+ [x] Get survey by id error without http client
+
+Client\AnswerHelper
+ [x] Post answer
+ [x] Get all surveys error without http client
+
