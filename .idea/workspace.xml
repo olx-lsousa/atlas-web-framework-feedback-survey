@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e2bc8f-a629-4f6a-81f6-df4224bf280f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Answer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/AnswerHttp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Survey.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/SurveyHttp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helper/AnswerHelper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/Client/AnswerHttpTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/Client/AnswerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/Client/SurveyHttpTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/Client/SurveyTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/Helper/AnswerHelperTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,11 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phpunit.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="phpunit.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpunit.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="354">
               <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -147,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/Tests/Client/SurveyHttpTest.php" />
         <option value="$PROJECT_DIR$/src/Tests/Client/AnswerHttpTest.php" />
         <option value="$PROJECT_DIR$/phpunit.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -259,19 +257,6 @@
               <item name="atlas-web-framework-feedback-survey" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="atlas-web-framework-feedback-survey" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atlas-web-framework-feedback-survey" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atlas-web-framework-feedback-survey" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atlas-web-framework-feedback-survey" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Client" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -324,7 +309,7 @@
       <workItem from="1532450957164" duration="1770000" />
       <workItem from="1532507864469" duration="5697000" />
       <workItem from="1532515405076" duration="756000" />
-      <workItem from="1532516221063" duration="12129000" />
+      <workItem from="1532516221063" duration="12248000" />
     </task>
     <servers />
   </component>
@@ -361,7 +346,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38669000" />
+    <option name="totallyTimeSpent" value="38788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="250" y="1110" width="1920" height="1050" extended-state="6" />
@@ -449,9 +434,6 @@
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exception/SurveyException.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -734,6 +716,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
           <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>

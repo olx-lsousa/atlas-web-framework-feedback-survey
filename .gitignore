@@ -1,0 +1,5 @@
+vendor/*
+.project
+tests/_reports/*
+.idea
+composer.lock
