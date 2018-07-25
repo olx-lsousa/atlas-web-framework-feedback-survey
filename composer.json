@@ -1,0 +1,31 @@
+{
+  "name": "gvre-retention/atlas-web-framework-feedback-survey",
+  "description": "Client to connect to the feedback service",
+  "type": "library",
+  "require": {
+    "guzzlehttp/guzzle": "~6.0",
+    "netresearch/jsonmapper": "1.4.*"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "require-dev": {
+    "monolog/monolog": "^1.21",
+    "mockery/mockery": "0.9.*",
+    "phpunit/phpunit": "7.*.*",
+    "codeception/codeception": "^2.4"
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "naspersclassifieds\\shared\\feedback\\": "./src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "naspersclassifieds\\shared\\feedback\\Tests\\": "./src/Tests"
+    }
+  }
+}
