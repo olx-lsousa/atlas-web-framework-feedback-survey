@@ -27,5 +27,11 @@
     "psr-4": {
       "naspersclassifieds\\shared\\feedback\\Tests\\": "./src/Tests"
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/naspersclassifieds-regional/atlas-web-framework-feedback-survey.git"
+    }
+  ]
 }
